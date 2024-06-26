@@ -17,7 +17,7 @@ You can view the live demo of the calculator [here](#).
 
 ## Screenshots
 
-![Calculator Screenshot](screenshot.png)
+![Calculator Screenshot](result.png)
 
 ## Getting Started
 
